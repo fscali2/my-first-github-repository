@@ -6,3 +6,4 @@ Now I add locally this line
 This line was modified manually during conflicts resolution. This line was modified manually in remote branch.
 Now I added a new line remotely.
 Now I added a different line!
+Now I added again a different line!!
